@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Skill Master"
+  short_description: "分层规划和续写长篇小说，追踪伏笔回收并维护全书记忆"
+  default_prompt: "使用 $novel-skill-master 扫描现有小说记忆，检查伏笔回收时机，并从正确位置继续写作。"

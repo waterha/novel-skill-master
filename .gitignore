@@ -1,0 +1,26 @@
+# 运行时数据（每个作者自己的项目）
+.webnovel/
+.story-system/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# 文档生成（python-docx 的 .docx 临时文件）
+*.docx
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE 配置
+.idea/
+.vscode/
+*.sublime-*
+
+# 日志
+*.log
